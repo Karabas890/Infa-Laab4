@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<lesson1>
+		<subject>ИНФОРМАТИКА(ЛЕК): ZOOM</subject>
+		<teacher>Балакшин Павел Валерьевич</teacher>
+		<weekNumber>5</weekNumber>
+		<weekInfo />
+		<format>Дистанционный</format>
+		<place />
+		<class />
+		<startTime>08:20</startTime>
+		<finishTime>09:50</finishTime>
+	</lesson1>
+	<lesson2>
+		<subject>ИНФОРМАТИКА(ЛЕК): АКТОВЫЙ ЗАЛ</subject>
+		<teacher>Балакшин Павел Валерьевич</teacher>
+		<weekNumber>3, 7, 9, 9, 11, 13, 15, 17</weekNumber>
+		<format>Очно-дистанционный</format>
+		<place>ул. Ломоносова, д. 9, лит. М</place>
+		<class />
+		<startTime>08:20</startTime>
+		<finishTime>09:50</finishTime>
+	</lesson2>
+	<lesson3>
+		<subject>ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛЕК): АКТОВЫЙ ЗАЛ</subject>
+		<teacher>Клименков Сергей Викторович</teacher>
+		<weekNumber>3, 7, 9, 9, 11, 13, 15, 17</weekNumber>
+		<format>Очно-дистанционный</format>
+		<place>ул. Ломоносова, д. 9, лит. М</place>
+		<class />
+		<startTime>10:00</startTime>
+		<finishTime>11:30</finishTime>
+	</lesson3>
+	<lesson4>
+		<subject>ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛАБ)</subject>
+		<teacher>Ткешелашвили Нино Мерабиевна</teacher>
+		<weekNumber>2, 4, 6, 8, 10, 12, 14, 16</weekNumber>
+		<weekInfo>четная неделя</weekInfo>
+		<format>Очно-дистанционный</format>
+		<place>Кронверкский пр., д. 49, лит. А</place>
+		<class>2306/2 (БЫВШ. 305) АУД.</class>
+		<startTime>10:00</startTime>
+		<finishTime>11:30</finishTime>
+	</lesson4>
+	<lesson5>
+		<subject>ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛЕК): ZOOM</subject>
+		<teacher>Клименков Сергей Викторович</teacher>
+		<weekNumber>5</weekNumber>
+		<weekInfo />
+		<format>Дистанционный</format>
+		<place />
+		<class />
+		<startTime>10:00</startTime>
+		<finishTime>11:30</finishTime>
+	</lesson5>
+	<lesson6>
+		<subject>ПРОГРАММИРОВАНИЕ (ЛЕК): ZOOM</subject>
+		<teacher>Письмак Алексей Евгеньевич</teacher>
+		<weekNumber>3, 7, 9, 9, 11, 13, 15, 17</weekNumber>
+		<weekInfo />
+		<format>Очно-дистанционный</format>
+		<place>ул. Ломоносова, д. 9, лит. М</place>
+		<class>1223 АУД.</class>
+		<startTime>11:40</startTime>
+		<finishTime>13:10</finishTime>
+	</lesson6>
+	<lesson7>
+		<subject>ПРОГРАММИРОВАНИЕ(ЛЕК): ZOOM</subject>
+		<teacher>Письмак Алексей Евгеньевич</teacher>
+		<weekNumber>5</weekNumber>
+		<weekInfo />
+		<format>Дистанционный</format>
+		<place />
+		<class />
+		<startTime>11:40</startTime>
+		<finishTime>13:10</finishTime>
+	</lesson7>
+	<lesson8>
+		<subject>ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛАБ)</subject>
+		<teacher>Ткешелашвили Нино Мерабиевна</teacher>
+		<weekNumber>2, 4, 6, 8, 10, 12, 14, 16</weekNumber>
+		<weekInfo>четная неделя</weekInfo>
+		<format>Очно-дистанционный</format>
+		<place>Кронверкский пр., д. 49, лит. А</place>
+		<class>2306/2 (БЫВШ. 305) АУД.</class>
+		<startTime>11:40</startTime>
+		<finishTime>13:10</finishTime>
+	</lesson8>
+</root>
